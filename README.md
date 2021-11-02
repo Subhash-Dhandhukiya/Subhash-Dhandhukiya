@@ -42,7 +42,7 @@ Hi!👋<br />
 <br />
  <p>
   <a href="https://www.linkedin.com/in/subhash-dhandhukiya-513301199/">
-    <img src="https://img.shields.io/badge/subhashdhandhukiya-dhandhukiya-386938188?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/Subhashdhandhukiya-Dhandhukiya-386938188?style=flat&logo=linkedin">
   </a> &nbsp; 
 <!--   <a href="https://twitter.com/MayankPandav">
     <img src="https://img.shields.io/badge/@MayankPandav-pandav?style=flat&logo=twitter">
