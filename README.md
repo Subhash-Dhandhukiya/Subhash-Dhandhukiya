@@ -29,7 +29,8 @@ Hi!👋<br />
     src="https://github-readme-stats.vercel.app/api?username=Subhash-Dhandhukiya&count_private=true&show_icons=true&include_all_commits=true" 
   />
 </a>
-
+<br />
+<br />
 <a href="https://github.com/Subhash-Dhandhukiya/">
   <img 
     align="center" 
@@ -44,11 +45,10 @@ Hi!👋<br />
   <a href="https://www.linkedin.com/in/subhash-dhandhukiya-513301199/">
     <img src="https://img.shields.io/badge/Subhashdhandhukiya-Dhandhukiya-386938188?style=flat&logo=linkedin">
   </a> &nbsp; 
-<!--   <a href="https://twitter.com/MayankPandav">
-    <img src="https://img.shields.io/badge/@MayankPandav-pandav?style=flat&logo=twitter">
-  </a> -->
-<!--  <a href="https://medium.com/@mayakpandav">
-    <img src="https://img.shields.io/badge/mayakpandav-mayankpandav?style=flat&logo=medium">
-  </a> -->
- 
 </p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+## 5. Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=Subhash-Dhandhukiya)
+
+
