@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-### My firing weapons:
+### My Firing weapons:
 
 #### Front-end
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,gatsby,bootstrap,materialui,emotion,tailwind,nextjs,redux,regex,react,sass,styledcomponents&perline=10" />
